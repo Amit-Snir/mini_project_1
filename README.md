@@ -1,1 +1,1 @@
-# my-reposatory
+please read before using the code
